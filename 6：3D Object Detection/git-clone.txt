@@ -1,0 +1,10 @@
+git clone https://github.com/prclibo/kitti_eval.git
+#进入到 kitti_eval的目录下
+g++ -O3 -DNDEBUG -o evaluate_object_3d_offline evaluate_object_3d_offline.cpp
+#若出现 #inlcude<boost/numeric/ubas/matrix.hpp>
+#slove
+sudo apt-get update
+sudo apt-get install libboost-all-dev
+#安装绘图，记录软件
+sudo apt-get install gnuplot
+sudo apt-get install texlive-extra-utils

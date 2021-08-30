@@ -1,0 +1,8 @@
+我自己的作业使用的是pointnet++的开源代码。
+训练环境：python3.8+pytorch1.8+Cuda11.1
+硬件环境 i7-11800H + RTX3050ti (4GB DDR6,2560个CUDA（流处理器）)
+截止到交稿时的精度：
+Test Instance Accuracy: 0.901540, Class Accuracy: 0.864731
+Best Instance Accuracy: 0.910859, Class Accuracy: 0.876616
+Epoch 70 (70/200):
+由于压缩包的容量原因，将源文件删除后上传。

@@ -1,0 +1,7 @@
+2021-01-13 10:41:40,416 - Model - INFO - PARAMETER ...
+2021-01-13 10:41:40,416 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir=None, lr_decay=0.5, model='pointnet2_part_seg_msg', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2021-01-13 10:41:40,579 - Model - INFO - The number of training data is: 13998
+2021-01-13 10:41:40,579 - Model - INFO - The number of test data is: 2874
+2021-01-13 10:41:41,547 - Model - INFO - No existing model, starting training from scratch...
+2021-01-13 10:41:41,548 - Model - INFO - Epoch 1 (1/251):
+2021-01-13 10:41:41,548 - Model - INFO - Learning rate:0.001000
